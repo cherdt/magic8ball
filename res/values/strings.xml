@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Osric\'s Magic 8 Ball</string>
+    <string name="action_settings">Settings</string>
+    <string name="just_kidding">(there are no settings)</string>
+    <string-array name="answers">
+	    <item >As I See It Yes</item>
+        <item >Ask Again Later</item>
+	    <item >Better Not Tell You Now</item>
+	    <item >Cannot Predict Now</item>
+        <item >Concentrate And Ask Again</item>
+	    <item >Don\'t Count On It</item>
+	    <item >It Is Certain</item>
+	    <item >It Is Decidedly So</item>
+	    <item >Most Likely</item>
+	    <item >My Reply Is No</item>
+	    <item >My Sources Say No</item>
+	    <item >Outlook Good</item>
+	    <item >Outlook Not So Good</item>
+	    <item >Reply Hazy Try Again</item>
+        <item >Signs Point To Yes</item>
+	    <item >Very Doubtful</item>
+	    <item >Without A Doubt</item>
+	    <item >Yes</item>
+	    <item >Yes Definitely</item>
+	    <item >You May Rely On It</item>
+	</string-array>
+
+</resources>
